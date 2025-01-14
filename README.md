@@ -16,13 +16,13 @@ This project aims to analyse industry Data, This presentation provides an analys
 - <a href = "https://github.com/arunsaimuddu/Insurance-analytics-project-/blob/main/Screenshot%202025-01-14%20154132.png" >Data set</a>
 
 ## Project insights 
-. The finding indicates  that while certain goals were met, particularly in revenue generation and meeting targets and  other areas such as opportunity management, cross-selling some strategic adjustments reqires . 
-. The details breakdown of opportunities by product distribution and revenue stages has highlighted specific areas where resources can be better allocated to improve overall performance.
-. By leveraging these insights, the organization can implement more effective resource allocation strategies, driving both short-term success and long-term sustainability.
+1. The finding indicates  that while certain goals were met, particularly in revenue generation and meeting targets and  other areas such as opportunity management, cross-selling some strategic adjustments requires
+2. The details breakdown of opportunities by product distribution and revenue stages has highlighted specific areas where resources can be better allocated to improve overall performance.
+3. By leveraging these insights, the organization can implement more effective resource allocation strategies, driving both short-term success and long-term sustainability.
 
 ## Final conclusion 
-. In this analysis, it is recommended that the company continues to refine its approach to opportunity management, particularly focusing on underperforming segments. 
-. By comparing the target KPIs with actual performance data from 2019 and 2020 ,it is clear where  the company has excelled and  there also some opportunities for improvement .
+1. In this analysis, it is recommended that the company continues to refine its approach to opportunity management, particularly focusing on underperforming segments. 
+2. By comparing the target KPIs with actual performance data from 2019 and 2020 ,it is clear where  the company has excelled and  there also some opportunities for improvement.
 
 
 
