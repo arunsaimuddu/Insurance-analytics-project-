@@ -1,4 +1,4 @@
-# Insurance-analytics-project (Dashboard using MS EXCEL)
+# Insurance-Analytics-Project (Dashboard using Ms Excel)
 ## Project objective
 This project analyzes industry data, focusing on the performance of Account Executives across different income classes. The presentation reviews key metrics, including cross-sell, renewals, new sales, invoice details, financial performance, and employee-driven opportunities at the Ahmedabad branch.
 
