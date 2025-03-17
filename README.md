@@ -23,6 +23,7 @@ This project analyzes industry data, focusing on the performance of Account Exec
 
 ## Final conclusion 
 1.This analysis recommends that the company refine its opportunity management strategy, with a particular focus on underperforming segments. 
+
 2. A comparison of target KPIs with actual performance data from 2019 and 2020 highlights the company's successes while also revealing areas for improvement.
 
 
